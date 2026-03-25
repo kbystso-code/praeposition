@@ -1,0 +1,967 @@
+{
+  "id": "dativ-lokal",
+  "title": "Dativ – Lokale Präpositionen",
+  "sessionSize": 20,
+  "questions": [
+    {
+      "id": 1,
+      "group": "in",
+      "sentence": "Der Ball ist （　） der Kiste. Der Deckel ist zu, und man sieht den Ball nur, wenn man die Kiste öffnet.",
+      "answer": "in",
+      "choices": [
+        "in",
+        "auf",
+        "unter",
+        "neben"
+      ]
+    },
+    {
+      "id": 2,
+      "group": "in",
+      "sentence": "Die Katze schläft （　） dem Korb. Sie liegt also drin und nicht oben darauf.",
+      "answer": "in",
+      "choices": [
+        "in",
+        "auf",
+        "unter",
+        "vor"
+      ]
+    },
+    {
+      "id": 3,
+      "group": "in",
+      "sentence": "Die Bücher sind （　） der Tasche. Man sieht sie erst, wenn man die Tasche aufmacht.",
+      "answer": "in",
+      "choices": [
+        "in",
+        "hinter",
+        "unter",
+        "zwischen"
+      ]
+    },
+    {
+      "id": 4,
+      "group": "in",
+      "sentence": "Das Wasser ist （　） der Flasche. Die Flasche ist schon fast voll.",
+      "answer": "in",
+      "choices": [
+        "in",
+        "auf",
+        "an",
+        "vor"
+      ]
+    },
+    {
+      "id": 5,
+      "group": "in",
+      "sentence": "Die Kinder sind （　） dem Zelt. Draußen regnet es, aber im Zelt bleiben sie trocken.",
+      "answer": "in",
+      "choices": [
+        "in",
+        "vor",
+        "neben",
+        "auf"
+      ]
+    },
+    {
+      "id": 6,
+      "group": "in",
+      "sentence": "Der Schlüssel ist （　） der Schublade. Wenn du die Schublade öffnest, findest du ihn.",
+      "answer": "in",
+      "choices": [
+        "in",
+        "unter",
+        "zwischen",
+        "an"
+      ]
+    },
+    {
+      "id": 7,
+      "group": "in",
+      "sentence": "Die Stifte sind （　） der Federmappe. Sie liegen also nicht auf dem Tisch.",
+      "answer": "in",
+      "choices": [
+        "in",
+        "auf",
+        "hinter",
+        "vor"
+      ]
+    },
+    {
+      "id": 8,
+      "group": "in",
+      "sentence": "Das Essen ist （　） dem Kühlschrank. Dort bleibt es kalt.",
+      "answer": "in",
+      "choices": [
+        "in",
+        "auf",
+        "unter",
+        "neben"
+      ]
+    },
+    {
+      "id": 9,
+      "group": "in",
+      "sentence": "Die Maus ist （　） dem Loch in der Wand. Nur ihre Nase schaut kurz heraus.",
+      "answer": "in",
+      "choices": [
+        "in",
+        "vor",
+        "unter",
+        "zwischen"
+      ]
+    },
+    {
+      "id": 10,
+      "group": "in",
+      "sentence": "Die Milch ist （　） dem Glas. Das Glas ist schon fast voll.",
+      "answer": "in",
+      "choices": [
+        "in",
+        "auf",
+        "an",
+        "hinter"
+      ]
+    },
+    {
+      "id": 11,
+      "group": "auf",
+      "sentence": "Das Buch liegt （　） dem Tisch, direkt oben auf der Tischplatte.",
+      "answer": "auf",
+      "choices": [
+        "auf",
+        "unter",
+        "neben",
+        "in"
+      ]
+    },
+    {
+      "id": 12,
+      "group": "auf",
+      "sentence": "Die Tasse steht （　） dem Regal, ganz oben auf der Fläche.",
+      "answer": "auf",
+      "choices": [
+        "auf",
+        "in",
+        "vor",
+        "hinter"
+      ]
+    },
+    {
+      "id": 13,
+      "group": "auf",
+      "sentence": "Die Katze sitzt （　） dem Stuhl, oben auf der Sitzfläche.",
+      "answer": "auf",
+      "choices": [
+        "auf",
+        "unter",
+        "zwischen",
+        "an"
+      ]
+    },
+    {
+      "id": 14,
+      "group": "auf",
+      "sentence": "Der Apfel liegt （　） dem Teller, direkt in der Mitte des Tellers.",
+      "answer": "auf",
+      "choices": [
+        "auf",
+        "in",
+        "unter",
+        "neben"
+      ]
+    },
+    {
+      "id": 15,
+      "group": "auf",
+      "sentence": "Die Lampe steht （　） dem Schrank, also ganz oben darauf.",
+      "answer": "auf",
+      "choices": [
+        "auf",
+        "vor",
+        "zwischen",
+        "in"
+      ]
+    },
+    {
+      "id": 16,
+      "group": "auf",
+      "sentence": "Die Zeitung liegt （　） dem Sofa und bedeckt einen Teil der Sitzfläche.",
+      "answer": "auf",
+      "choices": [
+        "auf",
+        "unter",
+        "hinter",
+        "an"
+      ]
+    },
+    {
+      "id": 17,
+      "group": "auf",
+      "sentence": "Der Ball liegt （　） dem Dach, ganz oben auf den Ziegeln.",
+      "answer": "auf",
+      "choices": [
+        "auf",
+        "in",
+        "vor",
+        "unter"
+      ]
+    },
+    {
+      "id": 18,
+      "group": "auf",
+      "sentence": "Die Puppe sitzt （　） dem Bett, auf der Decke und nicht auf dem Boden daneben.",
+      "answer": "auf",
+      "choices": [
+        "auf",
+        "neben",
+        "hinter",
+        "in"
+      ]
+    },
+    {
+      "id": 19,
+      "group": "auf",
+      "sentence": "Das Handy liegt （　） dem Schreibtisch, direkt neben der Tastatur auf der Platte.",
+      "answer": "auf",
+      "choices": [
+        "auf",
+        "unter",
+        "zwischen",
+        "vor"
+      ]
+    },
+    {
+      "id": 20,
+      "group": "auf",
+      "sentence": "Die Blumen stehen （　） dem Fensterbrett. Sie stehen also oben am Fenster.",
+      "answer": "auf",
+      "choices": [
+        "auf",
+        "an",
+        "in",
+        "unter"
+      ]
+    },
+    {
+      "id": 21,
+      "group": "unter",
+      "sentence": "Der Hund schläft （　） dem Tisch. Über ihm ist die Tischplatte.",
+      "answer": "unter",
+      "choices": [
+        "unter",
+        "auf",
+        "neben",
+        "in"
+      ]
+    },
+    {
+      "id": 22,
+      "group": "unter",
+      "sentence": "Die Schuhe stehen （　） dem Bett. Man sieht sie nur, wenn man nach unten schaut.",
+      "answer": "unter",
+      "choices": [
+        "unter",
+        "vor",
+        "auf",
+        "zwischen"
+      ]
+    },
+    {
+      "id": 23,
+      "group": "unter",
+      "sentence": "Die Katze versteckt sich （　） dem Stuhl. Sie ist unten darunter und nicht auf der Sitzfläche.",
+      "answer": "unter",
+      "choices": [
+        "unter",
+        "auf",
+        "hinter",
+        "an"
+      ]
+    },
+    {
+      "id": 24,
+      "group": "unter",
+      "sentence": "Der Ball liegt （　） dem Auto. Er ist direkt unter dem Wagen und nicht davor.",
+      "answer": "unter",
+      "choices": [
+        "unter",
+        "vor",
+        "in",
+        "auf"
+      ]
+    },
+    {
+      "id": 25,
+      "group": "unter",
+      "sentence": "Die Maus sitzt （　） dem Schrank. Über ihr ist der Schrankboden.",
+      "answer": "unter",
+      "choices": [
+        "unter",
+        "neben",
+        "zwischen",
+        "in"
+      ]
+    },
+    {
+      "id": 26,
+      "group": "unter",
+      "sentence": "Die Tasche liegt （　） dem Regal, unten am Boden darunter.",
+      "answer": "unter",
+      "choices": [
+        "unter",
+        "auf",
+        "vor",
+        "an"
+      ]
+    },
+    {
+      "id": 27,
+      "group": "unter",
+      "sentence": "Der Staub ist （　） dem Sofa. Unter dem Sofa muss man oft sauber machen.",
+      "answer": "unter",
+      "choices": [
+        "unter",
+        "hinter",
+        "in",
+        "auf"
+      ]
+    },
+    {
+      "id": 28,
+      "group": "unter",
+      "sentence": "Die Katze liegt （　） dem Tisch, damit man sie von oben nicht sieht.",
+      "answer": "unter",
+      "choices": [
+        "unter",
+        "vor",
+        "neben",
+        "auf"
+      ]
+    },
+    {
+      "id": 29,
+      "group": "unter",
+      "sentence": "Der Koffer steht （　） dem Fenster. Direkt über ihm ist das Fensterbrett.",
+      "answer": "unter",
+      "choices": [
+        "unter",
+        "an",
+        "auf",
+        "zwischen"
+      ]
+    },
+    {
+      "id": 30,
+      "group": "unter",
+      "sentence": "Das Spielzeug liegt （　） dem Schreibtisch. Man sieht es erst, wenn man sich bückt.",
+      "answer": "unter",
+      "choices": [
+        "unter",
+        "in",
+        "hinter",
+        "auf"
+      ]
+    },
+    {
+      "id": 31,
+      "group": "neben",
+      "sentence": "Der Ball liegt （　） der Kiste, direkt rechts von ihr und nicht in ihr.",
+      "answer": "neben",
+      "choices": [
+        "neben",
+        "in",
+        "auf",
+        "unter"
+      ]
+    },
+    {
+      "id": 32,
+      "group": "neben",
+      "sentence": "Die Lampe steht （　） dem Bett, links davon auf dem Boden.",
+      "answer": "neben",
+      "choices": [
+        "neben",
+        "unter",
+        "zwischen",
+        "auf"
+      ]
+    },
+    {
+      "id": 33,
+      "group": "neben",
+      "sentence": "Der Hund sitzt （　） dem Sofa, also seitlich daneben und nicht darauf.",
+      "answer": "neben",
+      "choices": [
+        "neben",
+        "in",
+        "hinter",
+        "vor"
+      ]
+    },
+    {
+      "id": 34,
+      "group": "neben",
+      "sentence": "Die Tasche steht （　） dem Schrank, direkt an seiner rechten Seite auf dem Boden.",
+      "answer": "neben",
+      "choices": [
+        "neben",
+        "auf",
+        "unter",
+        "an"
+      ]
+    },
+    {
+      "id": 35,
+      "group": "neben",
+      "sentence": "Der Stuhl steht （　） dem Tisch, also seitlich und nicht darunter.",
+      "answer": "neben",
+      "choices": [
+        "neben",
+        "unter",
+        "in",
+        "hinter"
+      ]
+    },
+    {
+      "id": 36,
+      "group": "neben",
+      "sentence": "Die Flasche steht （　） dem Glas, direkt links davon auf dem Tisch.",
+      "answer": "neben",
+      "choices": [
+        "neben",
+        "in",
+        "auf",
+        "vor"
+      ]
+    },
+    {
+      "id": 37,
+      "group": "neben",
+      "sentence": "Die Apotheke ist direkt （　） der Schule. Das Gebäude links davon ist die Apotheke.",
+      "answer": "neben",
+      "choices": [
+        "neben",
+        "zwischen",
+        "unter",
+        "an"
+      ]
+    },
+    {
+      "id": 38,
+      "group": "neben",
+      "sentence": "Das Fahrrad steht （　） dem Eingang, rechts davon und nicht direkt davor.",
+      "answer": "neben",
+      "choices": [
+        "neben",
+        "hinter",
+        "in",
+        "auf"
+      ]
+    },
+    {
+      "id": 39,
+      "group": "neben",
+      "sentence": "Der Schrank steht （　） dem Fenster, an der Wand rechts davon.",
+      "answer": "neben",
+      "choices": [
+        "neben",
+        "vor",
+        "unter",
+        "in"
+      ]
+    },
+    {
+      "id": 40,
+      "group": "neben",
+      "sentence": "Die Bank steht （　） dem Weg, direkt links am Rand.",
+      "answer": "neben",
+      "choices": [
+        "neben",
+        "auf",
+        "hinter",
+        "zwischen"
+      ]
+    },
+    {
+      "id": 41,
+      "group": "vor",
+      "sentence": "Die Schuhe stehen （　） der Tür, direkt am Eingang.",
+      "answer": "vor",
+      "choices": [
+        "vor",
+        "hinter",
+        "zwischen",
+        "neben"
+      ]
+    },
+    {
+      "id": 42,
+      "group": "vor",
+      "sentence": "Der Hund sitzt （　） der Tür und wartet draußen vor dem Haus.",
+      "answer": "vor",
+      "choices": [
+        "vor",
+        "hinter",
+        "unter",
+        "in"
+      ]
+    },
+    {
+      "id": 43,
+      "group": "vor",
+      "sentence": "Die Kinder warten schon （　） dem Kino auf ihre Freunde, direkt am Eingang.",
+      "answer": "vor",
+      "choices": [
+        "vor",
+        "hinter",
+        "zwischen",
+        "an"
+      ]
+    },
+    {
+      "id": 44,
+      "group": "vor",
+      "sentence": "Der Bus steht （　） dem Bahnhof, direkt vor dem Hauptausgang.",
+      "answer": "vor",
+      "choices": [
+        "vor",
+        "hinter",
+        "unter",
+        "neben"
+      ]
+    },
+    {
+      "id": 45,
+      "group": "vor",
+      "sentence": "Die Leute stehen （　） dem Museum und warten auf den Einlass.",
+      "answer": "vor",
+      "choices": [
+        "vor",
+        "hinter",
+        "in",
+        "auf"
+      ]
+    },
+    {
+      "id": 46,
+      "group": "vor",
+      "sentence": "Die Fahrräder stehen （　） der Schule am Haupteingang.",
+      "answer": "vor",
+      "choices": [
+        "vor",
+        "zwischen",
+        "hinter",
+        "unter"
+      ]
+    },
+    {
+      "id": 47,
+      "group": "vor",
+      "sentence": "Der Lehrer steht （　） der Klasse, ganz vorne bei der Tafel.",
+      "answer": "vor",
+      "choices": [
+        "vor",
+        "hinter",
+        "neben",
+        "an"
+      ]
+    },
+    {
+      "id": 48,
+      "group": "vor",
+      "sentence": "Sie steht morgens lange （　） dem Spiegel und kämmt sich die Haare.",
+      "answer": "vor",
+      "choices": [
+        "vor",
+        "hinter",
+        "zwischen",
+        "in"
+      ]
+    },
+    {
+      "id": 49,
+      "group": "vor",
+      "sentence": "Die Kinder sitzen （　） dem Fernseher und schauen einen Film.",
+      "answer": "vor",
+      "choices": [
+        "vor",
+        "hinter",
+        "an",
+        "unter"
+      ]
+    },
+    {
+      "id": 50,
+      "group": "vor",
+      "sentence": "Der Junge steht （　） dem Tor und wartet dort auf den Ball.",
+      "answer": "vor",
+      "choices": [
+        "vor",
+        "hinter",
+        "zwischen",
+        "auf"
+      ]
+    },
+    {
+      "id": 51,
+      "group": "hinter",
+      "sentence": "Die Katze versteckt sich （　） dem Vorhang. Deshalb sieht man sie zuerst nicht.",
+      "answer": "hinter",
+      "choices": [
+        "hinter",
+        "vor",
+        "zwischen",
+        "neben"
+      ]
+    },
+    {
+      "id": 52,
+      "group": "hinter",
+      "sentence": "Der Ball liegt （　） dem Schrank. Von vorne kann man ihn nicht sehen.",
+      "answer": "hinter",
+      "choices": [
+        "hinter",
+        "vor",
+        "in",
+        "unter"
+      ]
+    },
+    {
+      "id": 53,
+      "group": "hinter",
+      "sentence": "Der Hund liegt （　） dem Sofa, auf der Rückseite des Sofas.",
+      "answer": "hinter",
+      "choices": [
+        "hinter",
+        "vor",
+        "unter",
+        "auf"
+      ]
+    },
+    {
+      "id": 54,
+      "group": "hinter",
+      "sentence": "Das Kind steht （　） der Mutter. Die Mutter ist direkt vor ihm.",
+      "answer": "hinter",
+      "choices": [
+        "hinter",
+        "vor",
+        "neben",
+        "zwischen"
+      ]
+    },
+    {
+      "id": 55,
+      "group": "hinter",
+      "sentence": "Der Garten ist （　） dem Haus, also auf der Rückseite des Hauses.",
+      "answer": "hinter",
+      "choices": [
+        "hinter",
+        "vor",
+        "in",
+        "an"
+      ]
+    },
+    {
+      "id": 56,
+      "group": "hinter",
+      "sentence": "Das Fahrrad steht （　） der Garage. Von der Straße aus sieht man es nicht.",
+      "answer": "hinter",
+      "choices": [
+        "hinter",
+        "vor",
+        "unter",
+        "auf"
+      ]
+    },
+    {
+      "id": 57,
+      "group": "hinter",
+      "sentence": "Die Maus ist （　） dem Schrank, ganz an der Wand auf seiner Rückseite.",
+      "answer": "hinter",
+      "choices": [
+        "hinter",
+        "vor",
+        "zwischen",
+        "neben"
+      ]
+    },
+    {
+      "id": 58,
+      "group": "hinter",
+      "sentence": "Der Ball liegt （　） dem Tor. Der Spieler muss hinter das Tor gehen, um ihn zu holen.",
+      "answer": "hinter",
+      "choices": [
+        "hinter",
+        "vor",
+        "an",
+        "in"
+      ]
+    },
+    {
+      "id": 59,
+      "group": "hinter",
+      "sentence": "Die Katze sitzt （　） dem Sessel. Nur der Schwanz schaut noch hervor.",
+      "answer": "hinter",
+      "choices": [
+        "hinter",
+        "vor",
+        "unter",
+        "auf"
+      ]
+    },
+    {
+      "id": 60,
+      "group": "hinter",
+      "sentence": "Der Hund liegt （　） dem Baum, also auf der Seite, die man von vorne nicht sieht.",
+      "answer": "hinter",
+      "choices": [
+        "hinter",
+        "vor",
+        "zwischen",
+        "neben"
+      ]
+    },
+    {
+      "id": 61,
+      "group": "zwischen",
+      "sentence": "Der Ball liegt （　） den Kisten, genau in der Mitte von beiden.",
+      "answer": "zwischen",
+      "choices": [
+        "zwischen",
+        "vor",
+        "hinter",
+        "neben"
+      ]
+    },
+    {
+      "id": 62,
+      "group": "zwischen",
+      "sentence": "Das Haus steht （　） den Bäumen. Links und rechts davon steht je ein Baum.",
+      "answer": "zwischen",
+      "choices": [
+        "zwischen",
+        "unter",
+        "an",
+        "vor"
+      ]
+    },
+    {
+      "id": 63,
+      "group": "zwischen",
+      "sentence": "Die Katze sitzt （　） den Stühlen, also in der Mitte und nicht auf einem Stuhl.",
+      "answer": "zwischen",
+      "choices": [
+        "zwischen",
+        "auf",
+        "hinter",
+        "in"
+      ]
+    },
+    {
+      "id": 64,
+      "group": "zwischen",
+      "sentence": "Der Tisch steht （　） den Fenstern. An jeder Seite ist ein Fenster.",
+      "answer": "zwischen",
+      "choices": [
+        "zwischen",
+        "vor",
+        "unter",
+        "an"
+      ]
+    },
+    {
+      "id": 65,
+      "group": "zwischen",
+      "sentence": "Die Lampe hängt genau （　） den Bildern, also in der Mitte.",
+      "answer": "zwischen",
+      "choices": [
+        "zwischen",
+        "an",
+        "vor",
+        "hinter"
+      ]
+    },
+    {
+      "id": 66,
+      "group": "zwischen",
+      "sentence": "Das Kind sitzt （　） den Eltern auf der Rückbank. Rechts sitzt ein Elternteil und links der andere.",
+      "answer": "zwischen",
+      "choices": [
+        "zwischen",
+        "neben",
+        "vor",
+        "unter"
+      ]
+    },
+    {
+      "id": 67,
+      "group": "zwischen",
+      "sentence": "Der Ball liegt （　） den Schuhen. Links und rechts liegt je ein Schuh.",
+      "answer": "zwischen",
+      "choices": [
+        "zwischen",
+        "hinter",
+        "auf",
+        "in"
+      ]
+    },
+    {
+      "id": 68,
+      "group": "zwischen",
+      "sentence": "Die Bank steht （　） den Häusern, genau zwischen Haus Nummer 4 und Haus Nummer 6.",
+      "answer": "zwischen",
+      "choices": [
+        "zwischen",
+        "vor",
+        "hinter",
+        "an"
+      ]
+    },
+    {
+      "id": 69,
+      "group": "zwischen",
+      "sentence": "Der Hund liegt （　） den Stühlen. An jeder Seite steht ein Stuhl.",
+      "answer": "zwischen",
+      "choices": [
+        "zwischen",
+        "unter",
+        "neben",
+        "vor"
+      ]
+    },
+    {
+      "id": 70,
+      "group": "zwischen",
+      "sentence": "Das Auto steht （　） den Garagen, also mittig zwischen beiden Gebäuden.",
+      "answer": "zwischen",
+      "choices": [
+        "zwischen",
+        "vor",
+        "hinter",
+        "in"
+      ]
+    },
+    {
+      "id": 71,
+      "group": "an",
+      "sentence": "Das Bild hängt （　） der Wand über dem Sofa.",
+      "answer": "an",
+      "choices": [
+        "an",
+        "auf",
+        "vor",
+        "unter"
+      ]
+    },
+    {
+      "id": 72,
+      "group": "an",
+      "sentence": "Die Jacke hängt （　） der Tür an einem Haken.",
+      "answer": "an",
+      "choices": [
+        "an",
+        "in",
+        "hinter",
+        "zwischen"
+      ]
+    },
+    {
+      "id": 73,
+      "group": "an",
+      "sentence": "Das Poster hängt （　） dem Fenster. Es klebt direkt auf dem Glas.",
+      "answer": "an",
+      "choices": [
+        "an",
+        "vor",
+        "auf",
+        "unter"
+      ]
+    },
+    {
+      "id": 74,
+      "group": "an",
+      "sentence": "Die Uhr hängt （　） der Wand im Wohnzimmer.",
+      "answer": "an",
+      "choices": [
+        "an",
+        "zwischen",
+        "in",
+        "vor"
+      ]
+    },
+    {
+      "id": 75,
+      "group": "an",
+      "sentence": "Der Zettel hängt （　） dem Kühlschrank, festgemacht mit einem Magneten.",
+      "answer": "an",
+      "choices": [
+        "an",
+        "auf",
+        "unter",
+        "hinter"
+      ]
+    },
+    {
+      "id": 76,
+      "group": "an",
+      "sentence": "Die Tasche hängt （　） dem Haken neben der Tür.",
+      "answer": "an",
+      "choices": [
+        "an",
+        "in",
+        "vor",
+        "zwischen"
+      ]
+    },
+    {
+      "id": 77,
+      "group": "an",
+      "sentence": "Die Karte hängt （　） der Tafel im Klassenzimmer.",
+      "answer": "an",
+      "choices": [
+        "an",
+        "auf",
+        "unter",
+        "neben"
+      ]
+    },
+    {
+      "id": 78,
+      "group": "an",
+      "sentence": "Das Schild hängt （　） der Tür, damit jeder es lesen kann.",
+      "answer": "an",
+      "choices": [
+        "an",
+        "vor",
+        "hinter",
+        "in"
+      ]
+    },
+    {
+      "id": 79,
+      "group": "an",
+      "sentence": "Die Lampe hängt （　） der Decke genau über dem Tisch.",
+      "answer": "an",
+      "choices": [
+        "an",
+        "unter",
+        "zwischen",
+        "vor"
+      ]
+    },
+    {
+      "id": 80,
+      "group": "an",
+      "sentence": "Der Mantel hängt （　） der Garderobe im Flur.",
+      "answer": "an",
+      "choices": [
+        "an",
+        "auf",
+        "in",
+        "hinter"
+      ]
+    }
+  ]
+}

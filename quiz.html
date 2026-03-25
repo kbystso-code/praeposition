@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Präpositionen Drill – Quiz</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body data-page="quiz">
+  <main class="appShell">
+    <header class="appHeader">
+      <h1 id="quizTitle">Präpositionen Drill</h1>
+      <p class="sub" id="quizSubtitle">Satzfragen mit Wiederholung falscher Antworten.</p>
+    </header>
+
+    <section id="screen-quiz" class="panel screen active">
+      <div class="topRow">
+        <div>
+          <div id="themeLabel" class="pill"></div>
+          <h2 id="questionTitle">Aufgabe 1</h2>
+        </div>
+        <div class="topStatus">
+          <div id="correctStat" class="miniStat correctStat">○ 0</div>
+          <div id="wrongStat" class="miniStat wrongStat">× 0</div>
+          <div id="progress" class="miniStat progressStat">1 / 20</div>
+        </div>
+      </div>
+
+      <p id="prompt" class="prompt"></p>
+      <div id="choices" class="choiceGrid"></div>
+      <div id="feedback" class="feedback"></div>
+
+      <div class="bottomRow">
+        <button id="btnBackMenu" class="secondary">Zum Menü</button>
+        <button id="btnNext" class="primary" disabled>Weiter</button>
+      </div>
+    </section>
+
+    <section id="screen-result" class="panel screen">
+      <h2>Ergebnis</h2>
+      <div id="resultScore" class="score"></div>
+      <div id="resultDetail" class="resultDetail"></div>
+      <div class="bottomRow center">
+        <button id="btnRetry" class="primary">Noch einmal</button>
+        <button id="btnResultMenu" class="secondary">Zum Menü</button>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
