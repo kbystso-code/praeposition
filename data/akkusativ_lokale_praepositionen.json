@@ -1,0 +1,572 @@
+{
+  "sessionSize": 20,
+  "questions": [
+    {
+      "id": 1,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Junge geht ___ das Zimmer und macht die Tür hinter sich zu.",
+      "answer": "in",
+      "choices": ["in", "auf", "unter", "vor"]
+    },
+    {
+      "id": 2,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Die Mutter legt den Apfel ___ die Tasche und macht sie dann zu.",
+      "answer": "in",
+      "choices": ["in", "auf", "neben", "an"]
+    },
+    {
+      "id": 3,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Mädchen läuft ___ die Küche und holt ein Glas Wasser.",
+      "answer": "in",
+      "choices": ["in", "auf", "vor", "unter"]
+    },
+    {
+      "id": 4,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Vater legt das Heft ___ die Schublade und schiebt sie dann zu.",
+      "answer": "in",
+      "choices": ["in", "auf", "zwischen", "an"]
+    },
+    {
+      "id": 5,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Kind packt den Ball ___ den Karton und macht den Deckel zu.",
+      "answer": "in",
+      "choices": ["in", "unter", "neben", "vor"]
+    },
+    {
+      "id": 6,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Die Mutter legt den Schlüssel ___ die Schublade und schließt sie danach.",
+      "answer": "in",
+      "choices": ["in", "auf", "hinter", "an"]
+    },
+    {
+      "id": 7,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Junge geht ___ die Garage und macht das Tor hinter sich zu.",
+      "answer": "in",
+      "choices": ["in", "vor", "unter", "auf"]
+    },
+    {
+      "id": 8,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Mädchen legt die Puppe ___ die Kiste und macht sie gleich danach zu.",
+      "answer": "in",
+      "choices": ["in", "auf", "an", "neben"]
+    },
+    {
+      "id": 9,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Vater packt das Spielzeug ___ den großen Karton und klebt ihn dann zu.",
+      "answer": "in",
+      "choices": ["in", "unter", "zwischen", "vor"]
+    },
+    {
+      "id": 10,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Kind läuft ___ das Bad und macht die Tür schnell zu.",
+      "answer": "in",
+      "choices": ["in", "an", "auf", "hinter"]
+    },
+
+    {
+      "id": 11,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Kind legt das Buch ___ den Tisch, direkt auf die Platte.",
+      "answer": "auf",
+      "choices": ["auf", "in", "unter", "neben"]
+    },
+    {
+      "id": 12,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Vater stellt die Kiste ___ den Schrank, ganz oben drauf.",
+      "answer": "auf",
+      "choices": ["auf", "in", "hinter", "an"]
+    },
+    {
+      "id": 13,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Die Mutter legt den Teller ___ den Tisch, direkt auf die Platte.",
+      "answer": "auf",
+      "choices": ["auf", "in", "vor", "unter"]
+    },
+    {
+      "id": 14,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Mädchen legt die Jacke ___ das Bett, oben auf die Decke.",
+      "answer": "auf",
+      "choices": ["auf", "unter", "neben", "an"]
+    },
+    {
+      "id": 15,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Junge legt das Heft ___ den Tisch, direkt auf die Platte.",
+      "answer": "auf",
+      "choices": ["auf", "in", "zwischen", "vor"]
+    },
+    {
+      "id": 16,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Die Mutter stellt die Vase ___ den Tisch, ganz oben drauf.",
+      "answer": "auf",
+      "choices": ["auf", "in", "hinter", "neben"]
+    },
+    {
+      "id": 17,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Kind setzt die Puppe ___ das Sofa, oben auf das Kissen.",
+      "answer": "auf",
+      "choices": ["auf", "unter", "an", "vor"]
+    },
+    {
+      "id": 18,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Vater legt die Zeitung ___ den Tisch, direkt auf die Platte.",
+      "answer": "auf",
+      "choices": ["auf", "in", "unter", "hinter"]
+    },
+    {
+      "id": 19,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Mädchen stellt die Lampe ___ den Schrank, ganz oben drauf.",
+      "answer": "auf",
+      "choices": ["auf", "in", "neben", "vor"]
+    },
+    {
+      "id": 20,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Junge legt den Ball ___ das Bett, oben auf die Decke.",
+      "answer": "auf",
+      "choices": ["auf", "unter", "zwischen", "an"]
+    },
+
+    {
+      "id": 21,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Hund läuft ___ den Tisch, ganz unten darunter.",
+      "answer": "unter",
+      "choices": ["unter", "vor", "neben", "in"]
+    },
+    {
+      "id": 22,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Kind schiebt die Kiste ___ das Bett, unten auf den Boden.",
+      "answer": "unter",
+      "choices": ["unter", "auf", "neben", "hinter"]
+    },
+    {
+      "id": 23,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Die Katze läuft ___ das Sofa, ganz unten darunter.",
+      "answer": "unter",
+      "choices": ["unter", "vor", "an", "in"]
+    },
+    {
+      "id": 24,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Junge schiebt den Ball ___ das Bett, unten auf den Boden.",
+      "answer": "unter",
+      "choices": ["unter", "auf", "hinter", "zwischen"]
+    },
+    {
+      "id": 25,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Die Mutter legt die Tasche ___ den Tisch, unten auf den Boden darunter.",
+      "answer": "unter",
+      "choices": ["unter", "vor", "neben", "an"]
+    },
+    {
+      "id": 26,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Kind schiebt das Heft ___ das Bett, ganz unten darunter.",
+      "answer": "unter",
+      "choices": ["unter", "auf", "in", "vor"]
+    },
+    {
+      "id": 27,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Hund läuft ___ das Bett und bleibt ganz unten darunter liegen.",
+      "answer": "unter",
+      "choices": ["unter", "vor", "zwischen", "an"]
+    },
+    {
+      "id": 28,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Die Mutter schiebt die Kiste ___ den Tisch, unten auf den Boden.",
+      "answer": "unter",
+      "choices": ["unter", "hinter", "auf", "neben"]
+    },
+    {
+      "id": 29,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Mädchen legt den Ball ___ das Sofa, ganz unten darunter.",
+      "answer": "unter",
+      "choices": ["unter", "vor", "an", "in"]
+    },
+    {
+      "id": 30,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Junge schiebt die Tasche ___ das Bett, unten auf den Boden darunter.",
+      "answer": "unter",
+      "choices": ["unter", "neben", "auf", "hinter"]
+    },
+
+    {
+      "id": 31,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Mädchen stellt den Stuhl ___ das Bett, links davon.",
+      "answer": "neben",
+      "choices": ["neben", "an", "vor", "unter"]
+    },
+    {
+      "id": 32,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Die Mutter legt die Tasche ___ die Tür, rechts davon auf den Boden.",
+      "answer": "neben",
+      "choices": ["neben", "vor", "an", "unter"]
+    },
+    {
+      "id": 33,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Vater stellt die Lampe ___ den Schrank, rechts davon.",
+      "answer": "neben",
+      "choices": ["neben", "an", "hinter", "auf"]
+    },
+    {
+      "id": 34,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Kind legt das Buch ___ den Rucksack, links davon auf den Boden.",
+      "answer": "neben",
+      "choices": ["neben", "in", "unter", "vor"]
+    },
+    {
+      "id": 35,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Die Mutter stellt den Kinderwagen ___ die Bank, links davon.",
+      "answer": "neben",
+      "choices": ["neben", "an", "vor", "unter"]
+    },
+    {
+      "id": 36,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Junge legt den Ball ___ den Schrank, rechts davon auf den Boden.",
+      "answer": "neben",
+      "choices": ["neben", "hinter", "unter", "an"]
+    },
+    {
+      "id": 37,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Mädchen stellt den Hocker ___ das Sofa, links davon.",
+      "answer": "neben",
+      "choices": ["neben", "an", "vor", "zwischen"]
+    },
+    {
+      "id": 38,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Vater legt die Schuhe ___ das Bett, rechts davon auf den Boden.",
+      "answer": "neben",
+      "choices": ["neben", "unter", "vor", "an"]
+    },
+    {
+      "id": 39,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Kind stellt den Stuhl ___ den Tisch, rechts davon.",
+      "answer": "neben",
+      "choices": ["neben", "unter", "auf", "hinter"]
+    },
+    {
+      "id": 40,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Die Mutter legt die Decke ___ den Rucksack, links davon auf den Boden.",
+      "answer": "neben",
+      "choices": ["neben", "in", "an", "vor"]
+    },
+
+    {
+      "id": 41,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Kind stellt das Fahrrad ___ das Haus, direkt vor die Tür.",
+      "answer": "vor",
+      "choices": ["vor", "hinter", "neben", "an"]
+    },
+    {
+      "id": 42,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Die Mutter legt die Schuhe ___ die Tür, direkt an den Eingang.",
+      "answer": "vor",
+      "choices": ["vor", "neben", "unter", "in"]
+    },
+    {
+      "id": 43,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Vater stellt die Kiste ___ die Garage, direkt vor den Eingang.",
+      "answer": "vor",
+      "choices": ["vor", "hinter", "auf", "an"]
+    },
+    {
+      "id": 44,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Mädchen legt den Ball ___ die Tür, direkt an den Eingang.",
+      "answer": "vor",
+      "choices": ["vor", "neben", "unter", "hinter"]
+    },
+    {
+      "id": 45,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Junge stellt den Stuhl ___ das Haus, direkt vor die Tür.",
+      "answer": "vor",
+      "choices": ["vor", "hinter", "an", "zwischen"]
+    },
+    {
+      "id": 46,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Die Mutter legt die Matte ___ die Tür, direkt vor den Eingang.",
+      "answer": "vor",
+      "choices": ["vor", "unter", "neben", "in"]
+    },
+    {
+      "id": 47,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Kind stellt den Roller ___ die Garage, direkt vor den Eingang.",
+      "answer": "vor",
+      "choices": ["vor", "hinter", "an", "auf"]
+    },
+    {
+      "id": 48,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Vater legt das Paket ___ die Tür, direkt an den Eingang.",
+      "answer": "vor",
+      "choices": ["vor", "neben", "unter", "an"]
+    },
+    {
+      "id": 49,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Mädchen stellt die Kiste ___ das Haus, direkt vor die Tür.",
+      "answer": "vor",
+      "choices": ["vor", "hinter", "zwischen", "neben"]
+    },
+    {
+      "id": 50,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Junge legt den Ball ___ die Garage, direkt vor den Eingang.",
+      "answer": "vor",
+      "choices": ["vor", "hinter", "unter", "in"]
+    },
+
+    {
+      "id": 51,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Kind stellt den Besen ___ die offene Tür, sodass man ihn von vorn nicht sieht.",
+      "answer": "hinter",
+      "choices": ["hinter", "vor", "neben", "an"]
+    },
+    {
+      "id": 52,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Vater legt den Ball ___ das Sofa, sodass man ihn davor nicht sehen kann.",
+      "answer": "hinter",
+      "choices": ["hinter", "unter", "neben", "vor"]
+    },
+    {
+      "id": 53,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Die Mutter stellt die Kiste ___ das Sofa, sodass man sie von vorn nicht sieht.",
+      "answer": "hinter",
+      "choices": ["hinter", "vor", "neben", "an"]
+    },
+    {
+      "id": 54,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Junge legt den Ball ___ den Schrank, sodass man ihn davor nicht sehen kann.",
+      "answer": "hinter",
+      "choices": ["hinter", "unter", "vor", "zwischen"]
+    },
+    {
+      "id": 55,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Mädchen stellt den Stuhl ___ das Sofa, sodass man ihn von vorn nicht sieht.",
+      "answer": "hinter",
+      "choices": ["hinter", "vor", "neben", "unter"]
+    },
+    {
+      "id": 56,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Die Mutter legt die Tasche ___ die offene Tür, sodass man sie von vorn nicht sieht.",
+      "answer": "hinter",
+      "choices": ["hinter", "vor", "an", "neben"]
+    },
+    {
+      "id": 57,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Vater stellt den Eimer ___ den Schrank, sodass man ihn davor nicht sehen kann.",
+      "answer": "hinter",
+      "choices": ["hinter", "unter", "vor", "an"]
+    },
+    {
+      "id": 58,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Kind legt den Ball ___ die offene Tür, sodass man ihn von vorn nicht sieht.",
+      "answer": "hinter",
+      "choices": ["hinter", "vor", "unter", "neben"]
+    },
+    {
+      "id": 59,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Die Mutter stellt die Kiste ___ den Schrank, sodass man sie davor nicht sehen kann.",
+      "answer": "hinter",
+      "choices": ["hinter", "vor", "an", "zwischen"]
+    },
+    {
+      "id": 60,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Junge legt das Heft ___ das Sofa, sodass man es von vorn nicht sieht.",
+      "answer": "hinter",
+      "choices": ["hinter", "unter", "vor", "neben"]
+    },
+
+    {
+      "id": 61,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Kind stellt den Stuhl ___ das Sofa und das Regal, genau in die Mitte.",
+      "answer": "zwischen",
+      "choices": ["zwischen", "neben", "vor", "unter"]
+    },
+    {
+      "id": 62,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Die Mutter legt den Ball ___ die zwei Bäume, genau in die Mitte.",
+      "answer": "zwischen",
+      "choices": ["zwischen", "hinter", "unter", "an"]
+    },
+    {
+      "id": 63,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Vater stellt die Lampe ___ den Tisch und den Schrank, genau in die Mitte.",
+      "answer": "zwischen",
+      "choices": ["zwischen", "neben", "vor", "hinter"]
+    },
+    {
+      "id": 64,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Mädchen legt das Buch ___ die Tasche und den Rucksack, genau in die Mitte.",
+      "answer": "zwischen",
+      "choices": ["zwischen", "in", "neben", "unter"]
+    },
+    {
+      "id": 65,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Die Mutter stellt den Hocker ___ das Bett und den Schrank, genau in die Mitte.",
+      "answer": "zwischen",
+      "choices": ["zwischen", "vor", "neben", "an"]
+    },
+    {
+      "id": 66,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Junge legt den Ball ___ den Tisch und das Sofa, genau in die Mitte.",
+      "answer": "zwischen",
+      "choices": ["zwischen", "unter", "hinter", "neben"]
+    },
+    {
+      "id": 67,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Kind stellt den Stuhl ___ die zwei Bäume, genau in die Mitte.",
+      "answer": "zwischen",
+      "choices": ["zwischen", "hinter", "vor", "an"]
+    },
+    {
+      "id": 68,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Die Mutter legt die Decke ___ das Bett und den Schrank, genau in die Mitte auf den Boden.",
+      "answer": "zwischen",
+      "choices": ["zwischen", "unter", "vor", "neben"]
+    },
+    {
+      "id": 69,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Vater stellt die Kiste ___ das Sofa und den Tisch, genau in die Mitte.",
+      "answer": "zwischen",
+      "choices": ["zwischen", "hinter", "an", "neben"]
+    },
+    {
+      "id": 70,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Mädchen legt den Ball ___ den Schrank und das Bett, genau in die Mitte.",
+      "answer": "zwischen",
+      "choices": ["zwischen", "unter", "vor", "in"]
+    },
+
+    {
+      "id": 71,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Kind hängt das Bild ___ die Wand.",
+      "answer": "an",
+      "choices": ["an", "neben", "auf", "vor"]
+    },
+    {
+      "id": 72,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Junge stellt das Fahrrad ___ die Mauer, und es berührt sie.",
+      "answer": "an",
+      "choices": ["an", "neben", "vor", "hinter"]
+    },
+    {
+      "id": 73,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Die Mutter hängt das Poster ___ die Wand.",
+      "answer": "an",
+      "choices": ["an", "auf", "neben", "unter"]
+    },
+    {
+      "id": 74,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Vater stellt die Leiter ___ die Wand, und sie berührt sie.",
+      "answer": "an",
+      "choices": ["an", "neben", "vor", "zwischen"]
+    },
+    {
+      "id": 75,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Mädchen hängt das Foto ___ die Wand.",
+      "answer": "an",
+      "choices": ["an", "auf", "vor", "neben"]
+    },
+    {
+      "id": 76,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Junge stellt den Besen ___ die Mauer, und er berührt sie.",
+      "answer": "an",
+      "choices": ["an", "neben", "hinter", "unter"]
+    },
+    {
+      "id": 77,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Die Mutter hängt die Uhr ___ die Wand.",
+      "answer": "an",
+      "choices": ["an", "auf", "zwischen", "vor"]
+    },
+    {
+      "id": 78,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Der Vater stellt das Fahrrad ___ die Wand, und es berührt sie.",
+      "answer": "an",
+      "choices": ["an", "neben", "vor", "hinter"]
+    },
+    {
+      "id": 79,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Das Kind hängt die Jacke ___ die Wand.",
+      "answer": "an",
+      "choices": ["an", "auf", "neben", "unter"]
+    },
+    {
+      "id": 80,
+      "group": "Akkusativ – Lokale Präpositionen",
+      "sentence": "Die Mutter stellt die Leiter ___ die Mauer, und sie berührt sie.",
+      "answer": "an",
+      "choices": ["an", "neben", "vor", "zwischen"]
+    }
+  ]
+}

@@ -36,15 +36,18 @@ async function initHome(){
   try{
     const modules = await fetchJSON('data/modules.json');
     grid.innerHTML = '';
+
     modules.forEach(mod => {
       const a = document.createElement('a');
       a.className = `moduleCard${mod.enabled ? '' : ' disabled'}`;
       a.href = mod.enabled ? `quiz.html?module=${encodeURIComponent(mod.id)}` : '#';
+
       a.innerHTML = `
         <h3>${mod.title}</h3>
         <p>${mod.description}</p>
         <span class="badge">${mod.enabled ? 'Start' : 'Geplant'}</span>
       `;
+
       grid.appendChild(a);
     });
   } catch(err){
@@ -88,6 +91,7 @@ function queueRetry(question){
   if(nextLevel > 2) return;
 
   state.retryQueue.push({ ...question, isRetry: true, repeatLevel: nextLevel });
+
   if(nextLevel === 1){
     state.retryQueue.push({ ...question, isRetry: true, repeatLevel: nextLevel });
   }
@@ -104,13 +108,12 @@ function renderQuestion(){
   if(!q) return;
 
   state.answered = false;
+
   document.getElementById('themeLabel').textContent = state.module.title;
   document.getElementById('questionTitle').textContent = q.isRetry ? 'Wiederholung' : `Aufgabe ${state.shownBaseCount}`;
-
   document.getElementById('correctStat').textContent = `○ ${state.score}`;
   document.getElementById('wrongStat').textContent = `× ${state.wrongCount}`;
   document.getElementById('progress').textContent = `${Math.min(state.shownBaseCount, state.sessionSize)} / ${state.sessionSize}`;
-
   document.getElementById('prompt').textContent = q.sentence;
 
   const feedback = document.getElementById('feedback');
@@ -124,6 +127,7 @@ function renderQuestion(){
 function renderChoices(question){
   const wrap = document.getElementById('choices');
   wrap.innerHTML = '';
+
   const shuffled = shuffleArray(question.choices);
   shuffled.forEach(choice => {
     const btn = document.createElement('button');
@@ -186,12 +190,14 @@ function checkAnswer(choice, question, clickedBtn){
 
 function nextQuestion(){
   if(!state.answered) return;
+
   const next = getNextQuestion();
   if(!next){
     renderResult();
     showScreen('result');
     return;
   }
+
   state.currentQuestion = next;
   renderQuestion();
 }
@@ -200,11 +206,14 @@ function renderResult(){
   const total = state.sessionSize;
   const retryCount = state.retryResults.length;
   const retryCorrect = state.retryResults.filter(item => item.ok).length;
+
   document.getElementById('resultScore').textContent = `${state.score} / ${total}`;
 
   const wrongItems = state.baseResults.filter(item => !item.ok);
+
   if(wrongItems.length === 0){
-    document.getElementById('resultDetail').innerHTML = `Alles richtig!<br>Wiederholungen: ${retryCount}<br>Richtig in Wiederholungen: ${retryCorrect}`;
+    document.getElementById('resultDetail').innerHTML =
+      `Alles richtig!<br>Wiederholungen: ${retryCount}<br>Richtig in Wiederholungen: ${retryCorrect}`;
     return;
   }
 
@@ -212,7 +221,8 @@ function renderResult(){
     .map((item, idx) => `${idx + 1}. ${item.sentence} → ${item.correct}`)
     .join('<br>');
 
-  document.getElementById('resultDetail').innerHTML = `Fehler im Grundset:<br>${lines}<br><br>Wiederholungen: ${retryCount}<br>Richtig in Wiederholungen: ${retryCorrect}`;
+  document.getElementById('resultDetail').innerHTML =
+    `Fehler im Grundset:<br>${lines}<br><br>Wiederholungen: ${retryCount}<br>Richtig in Wiederholungen: ${retryCorrect}`;
 }
 
 async function initQuiz(){
@@ -234,13 +244,18 @@ async function initQuiz(){
     const questionSet = await fetchJSON(mod.file);
     resetSession(questionSet);
     state.currentQuestion = getNextQuestion();
+
     if(!state.currentQuestion){
       throw new Error('No questions available');
     }
 
     document.getElementById('btnNext').addEventListener('click', nextQuestion);
-    document.getElementById('btnBackMenu').addEventListener('click', () => window.location.href = 'index.html');
-    document.getElementById('btnResultMenu').addEventListener('click', () => window.location.href = 'index.html');
+    document.getElementById('btnBackMenu').addEventListener('click', () => {
+      window.location.href = 'index.html';
+    });
+    document.getElementById('btnResultMenu').addEventListener('click', () => {
+      window.location.href = 'index.html';
+    });
     document.getElementById('btnRetry').addEventListener('click', () => {
       resetSession(questionSet);
       state.currentQuestion = getNextQuestion();

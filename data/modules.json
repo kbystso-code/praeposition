@@ -2,15 +2,15 @@
   {
     "id": "dativ-lokal",
     "title": "Dativ – Lokale Präpositionen",
-    "description": "80 Satzfragen, 20 pro Runde, mit Wiederholung falscher Antworten.",
+    "description": "Wo?",
     "file": "data/dativ_lokale_praepositionen.json",
     "enabled": true
   },
   {
     "id": "akkusativ-lokal",
     "title": "Akkusativ – Lokale Präpositionen",
-    "description": "Geplant.",
+    "description": "Wohin?",
     "file": "data/akkusativ_lokale_praepositionen.json",
-    "enabled": false
+    "enabled": true
   }
 ]
