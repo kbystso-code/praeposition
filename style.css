@@ -19,6 +19,14 @@ body{
   margin-bottom:20px;
 }
 
+.heroBar{
+  display:flex;
+  align-items:flex-start;
+  justify-content:space-between;
+  gap:16px;
+  flex-wrap:wrap;
+}
+
 .hero h1{
   margin:0 0 8px;
   font-size:32px;
@@ -38,6 +46,28 @@ body{
   border-radius:20px;
   padding:20px;
   box-shadow:0 6px 20px rgba(0,0,0,0.08);
+}
+
+.launcherBtn{
+  display:inline-flex;
+  align-items:center;
+  gap:8px;
+  padding:10px 12px;
+  border-radius:12px;
+  border:1px solid #cbd5e1;
+  background:#fff;
+  color:#1f2937;
+  text-decoration:none;
+  font-weight:800;
+  line-height:1;
+  white-space:nowrap;
+  transition:transform 0.12s ease, box-shadow 0.12s ease, border-color 0.12s ease;
+}
+
+.launcherBtn:hover{
+  transform:translateY(-1px);
+  box-shadow:0 6px 16px rgba(0,0,0,0.08);
+  border-color:#94a3b8;
 }
 
 .moduleGrid{
@@ -253,6 +283,11 @@ body{
 @media (max-width: 700px){
   .choices{
     grid-template-columns:1fr;
+  }
+
+  .heroBar{
+    flex-direction:column;
+    align-items:flex-start;
   }
 
   .topRow{
