@@ -12,5 +12,12 @@
     "description": "Wohin?",
     "file": "data/akkusativ_lokale_praepositionen.json",
     "enabled": true
+  },
+  {
+    "id": "dativ-andere-praepositionen",
+    "title": "Dativ – Andere Präpositionen",
+    "description": "aus / bei / mit / nach / seit / von / zu",
+    "file": "data/dativ_andere_praepositionen.json",
+    "enabled": true
   }
 ]

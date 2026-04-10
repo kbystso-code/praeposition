@@ -1,0 +1,1045 @@
+{
+  "sessionSize": 20,
+  "questions": [
+    {
+      "id": 1,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Woher kommt der Ball? – Er kommt ___ der Kiste, die jetzt offen ist.",
+      "answer": "aus",
+      "choices": [
+        "aus",
+        "von",
+        "bei",
+        "zu"
+      ],
+      "explanation": "Man sagt: aus der Kiste. 'Aus' zeigt hier: Der Ball kommt aus dem Inneren der Kiste."
+    },
+    {
+      "id": 2,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Woher kommt deine Freundin? – Sie kommt ___ Italien und wohnt jetzt in Köln.",
+      "answer": "aus",
+      "choices": [
+        "aus",
+        "von",
+        "nach",
+        "bei"
+      ],
+      "explanation": "Man sagt: aus Italien. 'Aus' benutzt man hier für die Herkunft aus einem Land."
+    },
+    {
+      "id": 3,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Woher nimmt Leo den Saft? – Er nimmt ihn ___ dem Kühlschrank.",
+      "answer": "aus",
+      "choices": [
+        "aus",
+        "von",
+        "mit",
+        "zu"
+      ],
+      "explanation": "Man sagt: aus dem Kühlschrank. 'Aus' zeigt hier: Etwas kommt aus einem geschlossenen Raum oder Behälter."
+    },
+    {
+      "id": 4,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Woher kommt die Katze gerade? – Sie kommt ___ dem Zimmer und läuft jetzt in die Küche.",
+      "answer": "aus",
+      "choices": [
+        "aus",
+        "von",
+        "bei",
+        "nach"
+      ],
+      "explanation": "Man sagt: aus dem Zimmer. 'Aus' zeigt hier: Die Katze kommt aus dem Inneren des Zimmers."
+    },
+    {
+      "id": 5,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Woher kommt das Buch? – Emma holt es ___ der Tasche.",
+      "answer": "aus",
+      "choices": [
+        "aus",
+        "von",
+        "mit",
+        "zu"
+      ],
+      "explanation": "Man sagt: aus der Tasche. 'Aus' zeigt hier: Das Buch war in der Tasche."
+    },
+    {
+      "id": 6,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Woher kommt Herr Yilmaz? – Er kommt ___ der Türkei.",
+      "answer": "aus",
+      "choices": [
+        "aus",
+        "von",
+        "nach",
+        "bei"
+      ],
+      "explanation": "Man sagt: aus der Türkei. 'Aus' benutzt man hier für die Herkunft aus einem Land."
+    },
+    {
+      "id": 7,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Woher holst du den Pullover? – Ich hole ihn ___ dem Schrank.",
+      "answer": "aus",
+      "choices": [
+        "aus",
+        "von",
+        "mit",
+        "bei"
+      ],
+      "explanation": "Man sagt: aus dem Schrank. 'Aus' zeigt hier: Der Pullover war im Schrank."
+    },
+    {
+      "id": 8,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Woher kommt der Vogel? – Er fliegt gerade ___ dem Haus.",
+      "answer": "aus",
+      "choices": [
+        "aus",
+        "von",
+        "zu",
+        "bei"
+      ],
+      "explanation": "Man sagt: aus dem Haus. 'Aus' zeigt hier: Der Vogel kommt aus dem Inneren des Hauses."
+    },
+    {
+      "id": 9,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Woher kommt die Puppe? – Mia nimmt sie ___ dem Karton.",
+      "answer": "aus",
+      "choices": [
+        "aus",
+        "von",
+        "mit",
+        "nach"
+      ],
+      "explanation": "Man sagt: aus dem Karton. 'Aus' zeigt hier: Die Puppe war im Karton."
+    },
+    {
+      "id": 10,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Woher kommt dein Lehrer? – Er kommt ___ Deutschland, aber jetzt lebt er in Spanien.",
+      "answer": "aus",
+      "choices": [
+        "aus",
+        "von",
+        "zu",
+        "bei"
+      ],
+      "explanation": "Man sagt: aus Deutschland. 'Aus' benutzt man hier für die Herkunft aus einem Land."
+    },
+    {
+      "id": 11,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wo ist Lena? – Sie ist ___ ihrer Oma und trinkt dort Tee.",
+      "answer": "bei",
+      "choices": [
+        "bei",
+        "zu",
+        "mit",
+        "von"
+      ],
+      "explanation": "Man sagt: bei ihrer Oma. 'Bei' zeigt hier, bei welcher Person Lena gerade ist."
+    },
+    {
+      "id": 12,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wo ist Tom heute Nachmittag? – Er ist ___ seinem Freund und spielt dort.",
+      "answer": "bei",
+      "choices": [
+        "bei",
+        "zu",
+        "mit",
+        "aus"
+      ],
+      "explanation": "Man sagt: bei seinem Freund. 'Bei' zeigt hier: Tom ist an diesem Ort oder bei dieser Person."
+    },
+    {
+      "id": 13,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wo arbeitet deine Mutter? – Sie arbeitet ___ einer Bank in der Stadt.",
+      "answer": "bei",
+      "choices": [
+        "bei",
+        "zu",
+        "von",
+        "mit"
+      ],
+      "explanation": "Man sagt: bei einer Bank. 'Bei' benutzt man hier für den Arbeitsplatz."
+    },
+    {
+      "id": 14,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wo ist dein Bruder? – Er ist ___ der Lehrerin und fragt etwas.",
+      "answer": "bei",
+      "choices": [
+        "bei",
+        "zu",
+        "nach",
+        "von"
+      ],
+      "explanation": "Man sagt: bei der Lehrerin. 'Bei' zeigt hier, wo jemand gerade ist."
+    },
+    {
+      "id": 15,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wo wohnt das Kind im Sommer? – Es wohnt ___ seinen Großeltern auf dem Dorf.",
+      "answer": "bei",
+      "choices": [
+        "bei",
+        "zu",
+        "mit",
+        "aus"
+      ],
+      "explanation": "Man sagt: bei seinen Großeltern. 'Bei' zeigt hier, bei wem das Kind wohnt."
+    },
+    {
+      "id": 16,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wo bist du jetzt? – Ich bin ___ meiner Tante und helfe in der Küche.",
+      "answer": "bei",
+      "choices": [
+        "bei",
+        "zu",
+        "von",
+        "mit"
+      ],
+      "explanation": "Man sagt: bei meiner Tante. 'Bei' zeigt hier den Ort bei einer Person."
+    },
+    {
+      "id": 17,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wo ist der Hund? – Er ist ___ dem Nachbarn im Garten.",
+      "answer": "bei",
+      "choices": [
+        "bei",
+        "zu",
+        "von",
+        "aus"
+      ],
+      "explanation": "Man sagt: bei dem Nachbarn. 'Bei' zeigt hier, wo der Hund gerade ist."
+    },
+    {
+      "id": 18,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wo lernt ihr heute? – Wir sind ___ unserem Lehrer in der Musikschule.",
+      "answer": "bei",
+      "choices": [
+        "bei",
+        "zu",
+        "nach",
+        "mit"
+      ],
+      "explanation": "Man sagt: bei unserem Lehrer. 'Bei' zeigt hier, bei welcher Person ihr seid."
+    },
+    {
+      "id": 19,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wo ist Mia am Wochenende? – Sie ist ___ ihren Cousins und schläft dort.",
+      "answer": "bei",
+      "choices": [
+        "bei",
+        "zu",
+        "mit",
+        "von"
+      ],
+      "explanation": "Man sagt: bei ihren Cousins. 'Bei' zeigt hier, bei wem Mia sich aufhält."
+    },
+    {
+      "id": 20,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wo ist Papa? – Er ist noch ___ der Arbeit und kommt später nach Hause.",
+      "answer": "bei",
+      "choices": [
+        "bei",
+        "zu",
+        "nach",
+        "aus"
+      ],
+      "explanation": "Man sagt: bei der Arbeit. 'Bei' benutzt man hier für eine feste Wendung mit einem Ort der Tätigkeit."
+    },
+    {
+      "id": 21,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wo seid ihr gerade? – Wir sind ___ unserem Arzt und warten noch kurz.",
+      "answer": "bei",
+      "choices": [
+        "bei",
+        "zu",
+        "von",
+        "mit"
+      ],
+      "explanation": "Man sagt: bei unserem Arzt. 'Bei' zeigt hier, wo ihr euch gerade befindet."
+    },
+    {
+      "id": 22,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wo ist die Katze oft? – Sie ist gern ___ der Nachbarin, weil es dort ruhig ist.",
+      "answer": "bei",
+      "choices": [
+        "bei",
+        "zu",
+        "von",
+        "aus"
+      ],
+      "explanation": "Man sagt: bei der Nachbarin. 'Bei' zeigt hier, bei welcher Person die Katze ist."
+    },
+    {
+      "id": 23,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Mit wem gehst du in den Park? – Ich gehe ___ meinem Bruder.",
+      "answer": "mit",
+      "choices": [
+        "mit",
+        "bei",
+        "von",
+        "zu"
+      ],
+      "explanation": "Man sagt: mit meinem Bruder. 'Mit' zeigt hier, mit wem man zusammen etwas macht."
+    },
+    {
+      "id": 24,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Mit wem spielt Anna heute? – Sie spielt ___ ihrer Freundin aus der Schule.",
+      "answer": "mit",
+      "choices": [
+        "mit",
+        "bei",
+        "von",
+        "nach"
+      ],
+      "explanation": "Man sagt: mit ihrer Freundin. 'Mit' zeigt hier die Begleitung."
+    },
+    {
+      "id": 25,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Womit fährt dein Vater zur Arbeit? – Er fährt ___ dem Bus.",
+      "answer": "mit",
+      "choices": [
+        "mit",
+        "von",
+        "zu",
+        "bei"
+      ],
+      "explanation": "Man sagt: mit dem Bus. 'Mit' zeigt hier das Verkehrsmittel."
+    },
+    {
+      "id": 26,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Mit wem lernt Paul für den Test? – Er lernt ___ seinem Nachbarn.",
+      "answer": "mit",
+      "choices": [
+        "mit",
+        "bei",
+        "von",
+        "zu"
+      ],
+      "explanation": "Man sagt: mit seinem Nachbarn. 'Mit' zeigt hier, mit wem Paul zusammen lernt."
+    },
+    {
+      "id": 27,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Womit schneidet Mia das Papier? – Sie schneidet es ___ einer Schere.",
+      "answer": "mit",
+      "choices": [
+        "mit",
+        "bei",
+        "von",
+        "zu"
+      ],
+      "explanation": "Man sagt: mit einer Schere. 'Mit' zeigt hier das Mittel oder Werkzeug."
+    },
+    {
+      "id": 28,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Mit wem fährst du morgen nach Bonn? – Ich fahre ___ meiner Mutter.",
+      "answer": "mit",
+      "choices": [
+        "mit",
+        "nach",
+        "von",
+        "bei"
+      ],
+      "explanation": "Man sagt: mit meiner Mutter. 'Mit' zeigt hier, mit wem du fährst."
+    },
+    {
+      "id": 29,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Mit wem spricht der Lehrer gerade? – Er spricht ___ den Eltern von Ali.",
+      "answer": "mit",
+      "choices": [
+        "mit",
+        "bei",
+        "von",
+        "zu"
+      ],
+      "explanation": "Man sagt: mit den Eltern von Ali. 'Mit' zeigt hier, mit wem jemand spricht."
+    },
+    {
+      "id": 30,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Womit schreibt der Junge? – Er schreibt ___ einem blauen Stift.",
+      "answer": "mit",
+      "choices": [
+        "mit",
+        "von",
+        "bei",
+        "zu"
+      ],
+      "explanation": "Man sagt: mit einem blauen Stift. 'Mit' zeigt hier das Schreibmittel."
+    },
+    {
+      "id": 31,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Mit wem macht ihr Musik? – Wir machen Musik ___ unserer Lehrerin.",
+      "answer": "mit",
+      "choices": [
+        "mit",
+        "bei",
+        "von",
+        "nach"
+      ],
+      "explanation": "Man sagt: mit unserer Lehrerin. 'Mit' zeigt hier die gemeinsame Tätigkeit."
+    },
+    {
+      "id": 32,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Mit wem läuft der Hund durch den Wald? – Er läuft ___ seinem Besitzer.",
+      "answer": "mit",
+      "choices": [
+        "mit",
+        "bei",
+        "von",
+        "zu"
+      ],
+      "explanation": "Man sagt: mit seinem Besitzer. 'Mit' zeigt hier, wer zusammen unterwegs ist."
+    },
+    {
+      "id": 33,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Womit isst das Kind die Suppe? – Es isst sie ___ einem Löffel.",
+      "answer": "mit",
+      "choices": [
+        "mit",
+        "von",
+        "bei",
+        "zu"
+      ],
+      "explanation": "Man sagt: mit einem Löffel. 'Mit' zeigt hier das Werkzeug."
+    },
+    {
+      "id": 34,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Mit wem telefonierst du gerade? – Ich telefoniere ___ meiner Oma.",
+      "answer": "mit",
+      "choices": [
+        "mit",
+        "bei",
+        "von",
+        "nach"
+      ],
+      "explanation": "Man sagt: mit meiner Oma. 'Mit' zeigt hier, mit wem du telefonierst."
+    },
+    {
+      "id": 35,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin fahrt ihr morgen? – Wir fahren ___ Berlin und bleiben dort zwei Tage.",
+      "answer": "nach",
+      "choices": [
+        "nach",
+        "zu",
+        "bei",
+        "von"
+      ],
+      "explanation": "Man sagt: nach Berlin. 'Nach' benutzt man hier, weil Berlin eine Stadt als Ziel ist."
+    },
+    {
+      "id": 36,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin fliegt dein Onkel im Sommer? – Er fliegt ___ Spanien.",
+      "answer": "nach",
+      "choices": [
+        "nach",
+        "zu",
+        "aus",
+        "bei"
+      ],
+      "explanation": "Man sagt: nach Spanien. 'Nach' benutzt man hier für ein Land als Ziel."
+    },
+    {
+      "id": 37,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin fährt der Zug morgen früh? – Er fährt ___ Hamburg.",
+      "answer": "nach",
+      "choices": [
+        "nach",
+        "zu",
+        "von",
+        "mit"
+      ],
+      "explanation": "Man sagt: nach Hamburg. 'Nach' zeigt hier das Ziel in einer Stadt."
+    },
+    {
+      "id": 38,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin gehst du nach dem Unterricht? – Ich gehe direkt ___ Hause.",
+      "answer": "nach",
+      "choices": [
+        "nach",
+        "zu",
+        "bei",
+        "von"
+      ],
+      "explanation": "Man sagt: nach Hause. 'Nach' benutzt man in dieser festen Wendung."
+    },
+    {
+      "id": 39,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin reist ihr in den Ferien? – Wir reisen ___ Österreich.",
+      "answer": "nach",
+      "choices": [
+        "nach",
+        "zu",
+        "aus",
+        "mit"
+      ],
+      "explanation": "Man sagt: nach Österreich. 'Nach' benutzt man hier für ein Land als Ziel."
+    },
+    {
+      "id": 40,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin fährt Mia am Wochenende? – Sie fährt ___ München zu ihrer Tante.",
+      "answer": "nach",
+      "choices": [
+        "nach",
+        "zu",
+        "bei",
+        "von"
+      ],
+      "explanation": "Man sagt: nach München. 'Nach' zeigt hier das Ziel in einer Stadt."
+    },
+    {
+      "id": 41,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin geht der Brief morgen? – Er geht ___ Köln.",
+      "answer": "nach",
+      "choices": [
+        "nach",
+        "zu",
+        "von",
+        "bei"
+      ],
+      "explanation": "Man sagt: nach Köln. 'Nach' benutzt man hier, weil Köln eine Stadt als Ziel ist."
+    },
+    {
+      "id": 42,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin fahren deine Eltern nächstes Jahr? – Sie fahren ___ Italien ans Meer.",
+      "answer": "nach",
+      "choices": [
+        "nach",
+        "zu",
+        "aus",
+        "von"
+      ],
+      "explanation": "Man sagt: nach Italien. 'Nach' benutzt man hier für ein Land als Ziel."
+    },
+    {
+      "id": 43,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin läuft der Junge sofort? – Er läuft ___ Hause, weil es regnet.",
+      "answer": "nach",
+      "choices": [
+        "nach",
+        "zu",
+        "bei",
+        "mit"
+      ],
+      "explanation": "Man sagt: nach Hause. 'Nach' benutzt man in dieser festen Wendung."
+    },
+    {
+      "id": 44,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin geht ihr im Herbst? – Wir gehen zuerst nicht zur Schule, sondern ___ Hause.",
+      "answer": "nach",
+      "choices": [
+        "nach",
+        "zu",
+        "bei",
+        "von"
+      ],
+      "explanation": "Man sagt: nach Hause. 'Nach' benutzt man in dieser festen Wendung."
+    },
+    {
+      "id": 45,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin fährt der Bus am Abend weiter? – Er fährt ___ Bonn.",
+      "answer": "nach",
+      "choices": [
+        "nach",
+        "zu",
+        "von",
+        "mit"
+      ],
+      "explanation": "Man sagt: nach Bonn. 'Nach' zeigt hier das Ziel in einer Stadt."
+    },
+    {
+      "id": 46,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin fliegt deine Freundin morgen? – Sie fliegt ___ Portugal.",
+      "answer": "nach",
+      "choices": [
+        "nach",
+        "zu",
+        "aus",
+        "bei"
+      ],
+      "explanation": "Man sagt: nach Portugal. 'Nach' benutzt man hier für ein Land als Ziel."
+    },
+    {
+      "id": 47,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Seit wann lernst du Deutsch? – Ich lerne Deutsch ___ zwei Jahren.",
+      "answer": "seit",
+      "choices": [
+        "seit",
+        "von",
+        "nach",
+        "mit"
+      ],
+      "explanation": "Man sagt: seit zwei Jahren. 'Seit' zeigt hier den Beginn einer Zeit bis jetzt."
+    },
+    {
+      "id": 48,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Seit wann wohnt ihr in Köln? – Wir wohnen ___ 2022 in Köln.",
+      "answer": "seit",
+      "choices": [
+        "seit",
+        "von",
+        "nach",
+        "bei"
+      ],
+      "explanation": "Man sagt: seit 2022. 'Seit' zeigt hier den Beginn einer Zeit."
+    },
+    {
+      "id": 49,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Seit wann ist dein Vater zu Hause? – Er ist ___ heute Morgen zu Hause.",
+      "answer": "seit",
+      "choices": [
+        "seit",
+        "von",
+        "nach",
+        "mit"
+      ],
+      "explanation": "Man sagt: seit heute Morgen. 'Seit' zeigt hier: etwas begann am Morgen und dauert noch an."
+    },
+    {
+      "id": 50,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Seit wann spielt Mia Klavier? – Sie spielt ___ drei Jahren Klavier.",
+      "answer": "seit",
+      "choices": [
+        "seit",
+        "bei",
+        "von",
+        "nach"
+      ],
+      "explanation": "Man sagt: seit drei Jahren. 'Seit' zeigt hier den Anfang einer Dauer."
+    },
+    {
+      "id": 51,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Seit wann arbeitet deine Mutter hier? – Sie arbeitet ___ Januar in dieser Schule.",
+      "answer": "seit",
+      "choices": [
+        "seit",
+        "von",
+        "mit",
+        "zu"
+      ],
+      "explanation": "Man sagt: seit Januar. 'Seit' zeigt hier den Anfangspunkt der Zeit."
+    },
+    {
+      "id": 52,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Seit wann habt ihr den Hund? – Wir haben ihn ___ einem Jahr.",
+      "answer": "seit",
+      "choices": [
+        "seit",
+        "von",
+        "nach",
+        "bei"
+      ],
+      "explanation": "Man sagt: seit einem Jahr. 'Seit' zeigt hier eine Dauer bis jetzt."
+    },
+    {
+      "id": 53,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Seit wann kennt ihr Frau Klein? – Wir kennen sie ___ vielen Jahren.",
+      "answer": "seit",
+      "choices": [
+        "seit",
+        "mit",
+        "von",
+        "zu"
+      ],
+      "explanation": "Man sagt: seit vielen Jahren. 'Seit' zeigt hier, wie lange etwas schon gilt."
+    },
+    {
+      "id": 54,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Seit wann regnet es? – Es regnet ___ dem frühen Morgen.",
+      "answer": "seit",
+      "choices": [
+        "seit",
+        "von",
+        "nach",
+        "bei"
+      ],
+      "explanation": "Man sagt: seit dem frühen Morgen. 'Seit' zeigt hier den Beginn der Zeit."
+    },
+    {
+      "id": 55,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Seit wann wohnt dein Opa in Berlin? – Er wohnt ___ 2018 dort.",
+      "answer": "seit",
+      "choices": [
+        "seit",
+        "von",
+        "nach",
+        "mit"
+      ],
+      "explanation": "Man sagt: seit 2018. 'Seit' zeigt hier den Startpunkt bis heute."
+    },
+    {
+      "id": 56,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Seit wann seid ihr wieder in Deutschland? – Wir sind ___ letzter Woche wieder hier.",
+      "answer": "seit",
+      "choices": [
+        "seit",
+        "von",
+        "nach",
+        "bei"
+      ],
+      "explanation": "Man sagt: seit letzter Woche. 'Seit' zeigt hier den Anfang der Zeit bis jetzt."
+    },
+    {
+      "id": 57,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Von wem ist das Geschenk? – Es ist ___ meinem Onkel aus Hamburg.",
+      "answer": "von",
+      "choices": [
+        "von",
+        "aus",
+        "bei",
+        "zu"
+      ],
+      "explanation": "Man sagt: von meinem Onkel. 'Von' zeigt hier, von welcher Person das Geschenk kommt."
+    },
+    {
+      "id": 58,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Von wem bekommst du diese E-Mail? – Ich bekomme sie ___ meiner Lehrerin.",
+      "answer": "von",
+      "choices": [
+        "von",
+        "aus",
+        "mit",
+        "nach"
+      ],
+      "explanation": "Man sagt: von meiner Lehrerin. 'Von' zeigt hier den Absender."
+    },
+    {
+      "id": 59,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Von wem ist das Fahrrad vor dem Haus? – Es ist ___ unserem Nachbarn.",
+      "answer": "von",
+      "choices": [
+        "von",
+        "aus",
+        "bei",
+        "zu"
+      ],
+      "explanation": "Man sagt: von unserem Nachbarn. 'Von' zeigt hier, wem etwas gehört."
+    },
+    {
+      "id": 60,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Von wem hast du das Buch? – Ich habe es ___ meiner Freundin bekommen.",
+      "answer": "von",
+      "choices": [
+        "von",
+        "aus",
+        "mit",
+        "nach"
+      ],
+      "explanation": "Man sagt: von meiner Freundin. 'Von' zeigt hier, von welcher Person du das Buch bekommen hast."
+    },
+    {
+      "id": 61,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Von wem kommt der Brief? – Er kommt ___ meiner Tante in Wien.",
+      "answer": "von",
+      "choices": [
+        "von",
+        "aus",
+        "zu",
+        "bei"
+      ],
+      "explanation": "Man sagt: von meiner Tante. 'Von' zeigt hier die Person als Absender."
+    },
+    {
+      "id": 62,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Von wem ist die Idee? – Die Idee ist ___ unserem Lehrer.",
+      "answer": "von",
+      "choices": [
+        "von",
+        "aus",
+        "mit",
+        "bei"
+      ],
+      "explanation": "Man sagt: von unserem Lehrer. 'Von' zeigt hier, von wem die Idee stammt."
+    },
+    {
+      "id": 63,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Von wem lernt das Kind das Lied? – Es lernt es ___ seiner Mutter.",
+      "answer": "von",
+      "choices": [
+        "von",
+        "aus",
+        "mit",
+        "zu"
+      ],
+      "explanation": "Man sagt: von seiner Mutter. 'Von' zeigt hier, von welcher Person man etwas lernt."
+    },
+    {
+      "id": 64,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Von wem ist der Kuchen auf dem Tisch? – Der Kuchen ist ___ Oma Rosa.",
+      "answer": "von",
+      "choices": [
+        "von",
+        "aus",
+        "bei",
+        "nach"
+      ],
+      "explanation": "Man sagt: von Oma Rosa. 'Von' zeigt hier, wer den Kuchen gemacht oder gebracht hat."
+    },
+    {
+      "id": 65,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Von wem ist das Foto in deinem Zimmer? – Es ist ___ meinem Bruder.",
+      "answer": "von",
+      "choices": [
+        "von",
+        "aus",
+        "mit",
+        "zu"
+      ],
+      "explanation": "Man sagt: von meinem Bruder. 'Von' zeigt hier, von wem das Foto stammt."
+    },
+    {
+      "id": 66,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Von wem kommt die Nachricht auf dein Handy? – Sie kommt ___ meinem Vater.",
+      "answer": "von",
+      "choices": [
+        "von",
+        "aus",
+        "bei",
+        "zu"
+      ],
+      "explanation": "Man sagt: von meinem Vater. 'Von' zeigt hier die Person als Sender."
+    },
+    {
+      "id": 67,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Von wem hast du den Ball bekommen? – Ich habe ihn ___ meinem Cousin bekommen.",
+      "answer": "von",
+      "choices": [
+        "von",
+        "aus",
+        "mit",
+        "nach"
+      ],
+      "explanation": "Man sagt: von meinem Cousin. 'Von' zeigt hier, von welcher Person du etwas bekommst."
+    },
+    {
+      "id": 68,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Von wem ist der Tipp? – Der Tipp ist ___ unserer Nachbarin.",
+      "answer": "von",
+      "choices": [
+        "von",
+        "aus",
+        "bei",
+        "zu"
+      ],
+      "explanation": "Man sagt: von unserer Nachbarin. 'Von' zeigt hier, von wem der Tipp kommt."
+    },
+    {
+      "id": 69,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin gehst du jetzt? – Ich gehe ___ meiner Lehrerin und frage sie etwas.",
+      "answer": "zu",
+      "choices": [
+        "zu",
+        "nach",
+        "bei",
+        "von"
+      ],
+      "explanation": "Man sagt: zu meiner Lehrerin. 'Zu' benutzt man hier, weil man zu einer Person geht."
+    },
+    {
+      "id": 70,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin fahrt ihr am Morgen zuerst? – Wir fahren ___ der Schule.",
+      "answer": "zu",
+      "choices": [
+        "zu",
+        "nach",
+        "bei",
+        "aus"
+      ],
+      "explanation": "Man sagt: zu der Schule. 'Zu' benutzt man hier, weil man zu einem Ort wie der Schule fährt."
+    },
+    {
+      "id": 71,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin geht dein Vater jetzt? – Er geht ___ dem Arzt, weil er krank ist.",
+      "answer": "zu",
+      "choices": [
+        "zu",
+        "nach",
+        "bei",
+        "von"
+      ],
+      "explanation": "Man sagt: zu dem Arzt. 'Zu' benutzt man hier für das Ziel bei einer Person oder Einrichtung."
+    },
+    {
+      "id": 72,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin bringst du den Kuchen? – Ich bringe ihn ___ meiner Oma.",
+      "answer": "zu",
+      "choices": [
+        "zu",
+        "nach",
+        "bei",
+        "mit"
+      ],
+      "explanation": "Man sagt: zu meiner Oma. 'Zu' benutzt man hier, weil du zu einer Person gehst."
+    },
+    {
+      "id": 73,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin läuft das Kind nach dem Frühstück? – Es läuft schnell ___ seiner Mutter.",
+      "answer": "zu",
+      "choices": [
+        "zu",
+        "nach",
+        "bei",
+        "von"
+      ],
+      "explanation": "Man sagt: zu seiner Mutter. 'Zu' zeigt hier die Bewegung hin zu einer Person."
+    },
+    {
+      "id": 74,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin geht ihr am Abend? – Wir gehen ___ dem Sportplatz und trainieren dort.",
+      "answer": "zu",
+      "choices": [
+        "zu",
+        "nach",
+        "bei",
+        "aus"
+      ],
+      "explanation": "Man sagt: zu dem Sportplatz. 'Zu' benutzt man hier für das Ziel zu einem Ort."
+    },
+    {
+      "id": 75,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin gehst du nach der Schule? – Ich gehe ___ meinem Freund und wir machen Hausaufgaben.",
+      "answer": "zu",
+      "choices": [
+        "zu",
+        "nach",
+        "bei",
+        "von"
+      ],
+      "explanation": "Man sagt: zu meinem Freund. 'Zu' benutzt man hier, weil man sich zu einer Person bewegt."
+    },
+    {
+      "id": 76,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin fährt die Familie am Samstag? – Sie fährt ___ dem Markt und kauft Gemüse.",
+      "answer": "zu",
+      "choices": [
+        "zu",
+        "nach",
+        "bei",
+        "aus"
+      ],
+      "explanation": "Man sagt: zu dem Markt. 'Zu' benutzt man hier für ein Ziel wie den Markt."
+    },
+    {
+      "id": 77,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin kommt ihr später? – Wir kommen direkt ___ dir und trinken Tee.",
+      "answer": "zu",
+      "choices": [
+        "zu",
+        "nach",
+        "bei",
+        "von"
+      ],
+      "explanation": "Man sagt: zu dir. 'Zu' benutzt man hier, weil man zu einer Person geht."
+    },
+    {
+      "id": 78,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin geht der Junge mit dem Hund? – Er geht ___ dem Bahnhof und wartet dort auf seinen Onkel.",
+      "answer": "zu",
+      "choices": [
+        "zu",
+        "nach",
+        "bei",
+        "mit"
+      ],
+      "explanation": "Man sagt: zu dem Bahnhof. 'Zu' benutzt man hier für das Ziel zu einem Ort."
+    },
+    {
+      "id": 79,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin bringt ihr das Paket? – Wir bringen es ___ der Post.",
+      "answer": "zu",
+      "choices": [
+        "zu",
+        "nach",
+        "bei",
+        "von"
+      ],
+      "explanation": "Man sagt: zu der Post. 'Zu' benutzt man hier für das Ziel zu einer Einrichtung."
+    },
+    {
+      "id": 80,
+      "group": "Dativ – Andere Präpositionen",
+      "sentence": "Wohin fährst du am Nachmittag? – Ich fahre ___ meinem Opa und helfe ihm im Garten.",
+      "answer": "zu",
+      "choices": [
+        "zu",
+        "nach",
+        "bei",
+        "aus"
+      ],
+      "explanation": "Man sagt: zu meinem Opa. 'Zu' benutzt man hier, weil das Ziel eine Person ist."
+    }
+  ]
+}
