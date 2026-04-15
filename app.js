@@ -12,6 +12,9 @@ const state = {
   shownBaseCount: 0
 };
 
+const KIDS_APP_PROGRESS_KEY = 'kids-app-study-progress-v1';
+const KIDS_APP_APP_ID = 'praeposition';
+
 function shuffleArray(arr){
   const a = [...arr];
   for(let i = a.length - 1; i > 0; i--){
@@ -71,6 +74,7 @@ function resetSession(questionSet){
   state.baseResults = [];
   state.retryResults = [];
   state.shownBaseCount = 0;
+  reportKidsAppProgress(state.score);
 }
 
 function getNextQuestion(){
@@ -115,6 +119,7 @@ function renderQuestion(){
   document.getElementById('wrongStat').textContent = `× ${state.wrongCount}`;
   document.getElementById('progress').textContent = `${Math.min(state.shownBaseCount, state.sessionSize)} / ${state.sessionSize}`;
   document.getElementById('prompt').textContent = q.sentence;
+  reportKidsAppProgress(state.score);
 
   const feedback = document.getElementById('feedback');
   feedback.textContent = '';
@@ -185,6 +190,7 @@ function checkAnswer(choice, question, clickedBtn){
   }
 
   if(!isCorrect) queueRetry(question);
+  reportKidsAppProgress(state.score);
   document.getElementById('btnNext').disabled = false;
 }
 
@@ -208,6 +214,7 @@ function renderResult(){
   const retryCorrect = state.retryResults.filter(item => item.ok).length;
 
   document.getElementById('resultScore').textContent = `${state.score} / ${total}`;
+  reportKidsAppProgress(state.score);
 
   const wrongItems = state.baseResults.filter(item => !item.ok);
 
@@ -223,6 +230,30 @@ function renderResult(){
 
   document.getElementById('resultDetail').innerHTML =
     `Fehler im Grundset:<br>${lines}<br><br>Wiederholungen: ${retryCount}<br>Richtig in Wiederholungen: ${retryCorrect}`;
+}
+
+function getKidsAppTodayKey(){
+  const now = new Date();
+  const year = now.getFullYear();
+  const month = String(now.getMonth() + 1).padStart(2, '0');
+  const day = String(now.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+}
+
+function reportKidsAppProgress(correctCount){
+  try{
+    const today = getKidsAppTodayKey();
+    const raw = JSON.parse(localStorage.getItem(KIDS_APP_PROGRESS_KEY) || '{}');
+    raw[today] ??= {};
+
+    const prev = Number(raw[today][KIDS_APP_APP_ID]?.correct) || 0;
+    raw[today][KIDS_APP_APP_ID] = {
+      correct: Math.max(prev, Math.max(0, Math.floor(Number(correctCount) || 0))),
+      updatedAt: new Date().toISOString()
+    };
+
+    localStorage.setItem(KIDS_APP_PROGRESS_KEY, JSON.stringify(raw));
+  } catch {}
 }
 
 async function initQuiz(){
